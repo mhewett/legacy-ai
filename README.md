@@ -2,19 +2,19 @@
 
 ## AI & Software Engineering papers 1985-1992
 
-Starting in the 1950s, the phrase "Automatic Programming" was used to described methods of automating the job of a programmer. 
+Starting in the 1950s, the phrase "Automatic Programming" was used to describe methods of automating the job of a programmer. 
 The first automatic programming systems were what we now call _compilers_.  They did indeed automate the task of writing
-assembly language or machine code, but the maxim "_If it works, and we understand how it works, it's not AI_" was applicable and compilers
+assembly language or machine code, but the maxim _"If it works, and we understand how it works, it's not AI"_ was applicable and compilers
 are no longer considered to be AI systems.  (One could argue that modern compilers that handle operations such as branch prediction, 
-out-of-order execution, hardware pre-fetchers, heterogeneous cores, and GPUs are much closer to AI systems than not. There aren't
-many people who can compile a C program for a multicore CPU by hand!)
+out-of-order execution, hardware pre-fetchers, heterogeneous cores, and GPUs are much closer to AI systems than not. There are
+very few people who can compile a C program for a multicore CPU by hand!)
 
 In the 1960s Automatic Programming evolved to address generating code in a high-level
 language like COBOL or FORTRAN from an even higher-level design.  As the software industry matured in the 1970s and 1980s, 
-the descriptor "Automated Software Engineering" replaced the original phrase.
+the descriptor "Automated Software Engineering" replaced the original name for the field.
 
 One branch of Automated Software Engineering research was based on specifying programs in formal logic, or by strictly specifying inputs and outputs of functions.
-After a number of years researchers realized that the complexity and scale of real-world software programs (e.g. airline ticketing systems) overwhelmed the ability
+After a number of years, researchers realized that the complexity and scale of real-world software programs (e.g. airline ticketing systems) overwhelmed the ability
 of programmers to specify complete systems using logical constructs.
 
 The field then went in several directions:
@@ -31,19 +31,34 @@ The field then went in several directions:
 As of 2026, AI-based programming environments such as [Claude Code](https://code.claude.com/docs/en/overview) have revolutionized
 software development.  They generate programs from descriptions written in a high-level, _informal_ specification language 
 (e.g. English) using a neural net model trained on millions of lines of code.  Early AI programming systems did not have access to a
-large dataset of programs so they had to resort to derivation and induction techniques that ultimately did not have
+large dataset of programs, so they had to resort to derivation and induction techniques that ultimately did not have
 widespread applicability.
 
 ### Archive of published material from this period
+There are 11 AI and Software Engineering paper collections in this repo.  Here is a summary of each collection.
+The contents of the first 9 are roughly in alphabetical order by author.
 
+| Name                                                                                         | Size | Description                   | Table of Contents                                               |
+|----------------------------------------------------------------------------------------------|-----:|-------------------------------|-----------------------------------------------------------------|
+| [AI-and-Software-Engineering-1985-1992-01.pdf](AI-and-Software-Engineering-1985-1992-01.pdf) | 75MB | Technical papers, authors A-C | [AI-and-SE-1985-1992-01-TOC.pdf](AI-and-SE-1985-1992-01-TOC.md) | 
+| [AI-and-Software-Engineering-1985-1992-02.pdf](AI-and-Software-Engineering-1985-1992-02.pdf) | 81MB | Technical papers, authors A-C | [AI-and-SE-1985-1992-02-TOC.pdf](AI-and-SE-1985-1992-02-TOC.md) | 
+| [AI-and-Software-Engineering-1985-1992-03.pdf](AI-and-Software-Engineering-1985-1992-03.pdf) | 75MB | Technical papers, authors A-C | [AI-and-SE-1985-1992-03-TOC.pdf](AI-and-SE-1985-1992-03-TOC.md) | 
+| [AI-and-Software-Engineering-1985-1992-04.pdf](AI-and-Software-Engineering-1985-1992-04.pdf) | 39MB | Technical papers, authors A-C | [AI-and-SE-1985-1992-04-TOC.pdf](AI-and-SE-1985-1992-04-TOC.md) | 
+| [AI-and-Software-Engineering-1985-1992-05.pdf](AI-and-Software-Engineering-1985-1992-05.pdf) | 51MB | Technical papers, authors A-C | [AI-and-SE-1985-1992-05-TOC.pdf](AI-and-SE-1985-1992-05-TOC.md) | 
+| [AI-and-Software-Engineering-1985-1992-06.pdf](AI-and-Software-Engineering-1985-1992-06.pdf) | 65MB | Technical papers, authors A-C | [AI-and-SE-1985-1992-06-TOC.pdf](AI-and-SE-1985-1992-06-TOC.md) | 
+| [AI-and-Software-Engineering-1985-1992-07.pdf](AI-and-Software-Engineering-1985-1992-07.pdf) | 49MB | Technical papers, authors A-C | [AI-and-SE-1985-1992-07-TOC.pdf](AI-and-SE-1985-1992-07-TOC.md) | 
+| [AI-and-Software-Engineering-1985-1992-08.pdf](AI-and-Software-Engineering-1985-1992-08.pdf) | 58MB | Technical papers, authors A-C | [AI-and-SE-1985-1992-08-TOC.pdf](AI-and-SE-1985-1992-08-TOC.md) | 
+| [AI-and-Software-Engineering-1985-1992-09.pdf](AI-and-Software-Engineering-1985-1992-09.pdf) | 52MB | Technical papers, authors A-C | [AI-and-SE-1985-1992-09-TOC.pdf](AI-and-SE-1985-1992-09-TOC.md) | 
+| [AI-and-Software-Engineering-1985-1992-10.pdf](AI-and-Software-Engineering-1985-1992-10.pdf) | 26MB | Technical papers, authors A-C | [AI-and-SE-1985-1992-10-TOC.pdf](AI-and-SE-1985-1992-10-TOC.md) | 
+| [AI-and-Software-Engineering-1985-1992-11.pdf](AI-and-Software-Engineering-1985-1992-11.pdf) | 85MB | Technical papers, authors A-C | [AI-and-SE-1985-1992-11-TOC.pdf](AI-and-SE-1985-1992-11-TOC.md) | 
 
 ### Other magazines, journals, and workshops (not scanned)
 1. _IEEE Intelligent Systems (formerly IEEE Expert)_, Winter **1988** Special Issue on _AI/Software Engineering_.  
    1. Available online at [computer.org](https://www.computer.org/csdl/magazine/ex/1988/04).
    2. One good paper is _Interactive Problem Solving_ by [Elaine Kant](https://en.wikipedia.org/wiki/Elaine_Kant) pp. 36-49, which discusses issues that are still relevant to modern LLM-based AIs. 
-2. _AI Magazine Vol.11, No. 4_, Winter **1990**.  Special issue on AI and Design.
+2. _AI Magazine Vol. 11, No. 4_, Winter **1990**.  Special issue on AI and Design.
    1. Available online at [Wiley](https://onlinelibrary.wiley.com/toc/23719621/1990/11/4). 
-   2. Don't miss the workshop overview _Creating a Scientific Community at the Interface Between Engineering Design and AI_ by David Steier, pp. 18-22 which is only briefly mentioned in the Table of Contents. 
+   2. Don't miss the workshop overview _Creating a Scientific Community at the Interface Between Engineering Design and AI_ by David Steier, pp. 18-22, which is only briefly mentioned in the Table of Contents. 
 3. _AI Magazine Vol. 5, No. 1_, Spring **1984**.  Special issue on Automatic Programming.
    1. Available online at [Wiley](https://onlinelibrary.wiley.com/toc/23719621/1984/5/1).
    2. This issue contains a number of articles by important Automatic Programming researchers in the 1970s and 1980s.
