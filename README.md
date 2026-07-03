@@ -10,7 +10,7 @@ out-of-order execution, hardware pre-fetchers, heterogeneous cores, and GPUs are
 very few people who can compile a C program for a multicore CPU by hand!)
 
 In the 1960s Automatic Programming evolved to address generating code in a high-level
-language like COBOL or FORTRAN from an even higher-level design.  As the software industry matured in the 1970s and 1980s, 
+language like COBOL or FORTRAN from an even higher-level specification.  As the software industry matured in the 1970s and 1980s, 
 the descriptor "Automated Software Engineering" replaced the original name for the field.
 
 One branch of Automated Software Engineering research was based on specifying programs in formal logic, or by strictly specifying inputs and outputs of functions.
@@ -26,7 +26,7 @@ The field then went in several directions:
   - National Instruments produces [**LabView**](https://www.ni.com/en/shop/labview?srsltid=AfmBOorzoCCZWFsYRfj1vCQj_j_KWeZ3hnC4N9rne3R9A1DXq2cMNzLi), a very popular visual system for designing programs.  It is still available as of 2026.
   - There are also several visual programming environments for children, such as [Scratch](https://scratch.mit.edu/), [MakeCode](https://www.microsoft.com/en-us/makecode), [Snap!](https://snap.berkeley.edu/), and [Alice](https://www.alice.org/).
 - [Genetic programming](https://en.wikipedia.org/wiki/Genetic_programming): evolving a program using techniques similar to evolution in nature.
-  - The programming language [LISP](https://en.wikipedia.org/wiki/Lisp_(programming_language\)) is particularly suited for this technique. 
+  - The programming language [LISP](https://en.wikipedia.org/wiki/Lisp_(programming_language)) is particularly suited for this technique. 
 
 As of 2026, AI-based programming environments such as [Claude Code](https://code.claude.com/docs/en/overview) have revolutionized
 software development.  They generate programs from descriptions written in a high-level, _informal_ specification language 
