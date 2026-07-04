@@ -32,25 +32,25 @@ As of 2026, AI-based programming environments such as [Claude Code](https://code
 software development.  They generate programs from descriptions written in a high-level, _informal_ specification language 
 (e.g. English) using a neural net model trained on millions of lines of code.  Early AI programming systems did not have access to a
 large dataset of programs, so they had to resort to derivation and induction techniques that ultimately did not have
-widespread applicability.
+widespread feasibility.  Today's [LLM](https://en.wikipedia.org/wiki/Large_language_model)-based programming assistants work amazingly well. 
 
 ### Archive of published material from this period
 There are 11 AI and Software Engineering paper collections in this repo.  Here is a summary of each collection.
 The contents of the first 9 are roughly in alphabetical order by author.
 
-| Name                                                                                         | Size | Description                   | Table of Contents                                               |
-|----------------------------------------------------------------------------------------------|-----:|-------------------------------|-----------------------------------------------------------------|
-| [AI-and-Software-Engineering-1985-1992-01.pdf](AI-and-Software-Engineering-1985-1992-01.pdf) | 75MB | Technical papers, authors A-C | [AI-and-SE-1985-1992-01-TOC.pdf](AI-and-SE-1985-1992-01-TOC.md) | 
-| [AI-and-Software-Engineering-1985-1992-02.pdf](AI-and-Software-Engineering-1985-1992-02.pdf) | 81MB | Technical papers, authors A-C | [AI-and-SE-1985-1992-02-TOC.pdf](AI-and-SE-1985-1992-02-TOC.md) | 
-| [AI-and-Software-Engineering-1985-1992-03.pdf](AI-and-Software-Engineering-1985-1992-03.pdf) | 75MB | Technical papers, authors A-C | [AI-and-SE-1985-1992-03-TOC.pdf](AI-and-SE-1985-1992-03-TOC.md) | 
-| [AI-and-Software-Engineering-1985-1992-04.pdf](AI-and-Software-Engineering-1985-1992-04.pdf) | 39MB | Technical papers, authors A-C | [AI-and-SE-1985-1992-04-TOC.pdf](AI-and-SE-1985-1992-04-TOC.md) | 
-| [AI-and-Software-Engineering-1985-1992-05.pdf](AI-and-Software-Engineering-1985-1992-05.pdf) | 51MB | Technical papers, authors A-C | [AI-and-SE-1985-1992-05-TOC.pdf](AI-and-SE-1985-1992-05-TOC.md) | 
-| [AI-and-Software-Engineering-1985-1992-06.pdf](AI-and-Software-Engineering-1985-1992-06.pdf) | 65MB | Technical papers, authors A-C | [AI-and-SE-1985-1992-06-TOC.pdf](AI-and-SE-1985-1992-06-TOC.md) | 
-| [AI-and-Software-Engineering-1985-1992-07.pdf](AI-and-Software-Engineering-1985-1992-07.pdf) | 49MB | Technical papers, authors A-C | [AI-and-SE-1985-1992-07-TOC.pdf](AI-and-SE-1985-1992-07-TOC.md) | 
-| [AI-and-Software-Engineering-1985-1992-08.pdf](AI-and-Software-Engineering-1985-1992-08.pdf) | 58MB | Technical papers, authors A-C | [AI-and-SE-1985-1992-08-TOC.pdf](AI-and-SE-1985-1992-08-TOC.md) | 
-| [AI-and-Software-Engineering-1985-1992-09.pdf](AI-and-Software-Engineering-1985-1992-09.pdf) | 52MB | Technical papers, authors A-C | [AI-and-SE-1985-1992-09-TOC.pdf](AI-and-SE-1985-1992-09-TOC.md) | 
-| [AI-and-Software-Engineering-1985-1992-10.pdf](AI-and-Software-Engineering-1985-1992-10.pdf) | 26MB | Technical papers, authors A-C | [AI-and-SE-1985-1992-10-TOC.pdf](AI-and-SE-1985-1992-10-TOC.md) | 
-| [AI-and-Software-Engineering-1985-1992-11.pdf](AI-and-Software-Engineering-1985-1992-11.pdf) | 85MB | Technical papers, authors A-C | [AI-and-SE-1985-1992-11-TOC.pdf](AI-and-SE-1985-1992-11-TOC.md) | 
+| Name                                                                                         | Size | Description                              | Table of Contents                                              |
+|----------------------------------------------------------------------------------------------|-----:|------------------------------------------|----------------------------------------------------------------|
+| [AI-and-Software-Engineering-1985-1992-01.pdf](AI-and-Software-Engineering-1985-1992-01.pdf) | 75MB | Technical papers, authors A-C            | [AI-and-SE-1985-1992-01-TOC.md](AI-and-SE-1985-1992-01-TOC.md) | 
+| [AI-and-Software-Engineering-1985-1992-02.pdf](AI-and-Software-Engineering-1985-1992-02.pdf) | 81MB | Technical papers, authors C-F            | [AI-and-SE-1985-1992-02-TOC.md](AI-and-SE-1985-1992-02-TOC.md) | 
+| [AI-and-Software-Engineering-1985-1992-03.pdf](AI-and-Software-Engineering-1985-1992-03.pdf) | 75MB | Technical papers, authors G-K            | [AI-and-SE-1985-1992-03-TOC.md](AI-and-SE-1985-1992-03-TOC.md) | 
+| [AI-and-Software-Engineering-1985-1992-04.pdf](AI-and-Software-Engineering-1985-1992-04.pdf) | 39MB | Elaine Kant thesis (1979)                | [AI-and-SE-1985-1992-04-TOC.md](AI-and-SE-1985-1992-04-TOC.md) | 
+| [AI-and-Software-Engineering-1985-1992-05.pdf](AI-and-Software-Engineering-1985-1992-05.pdf) | 51MB | Technical papers, authors K-M            | [AI-and-SE-1985-1992-05-TOC.md](AI-and-SE-1985-1992-05-TOC.md) | 
+| [AI-and-Software-Engineering-1985-1992-06.pdf](AI-and-Software-Engineering-1985-1992-06.pdf) | 65MB | Technical papers, authors M-S            | [AI-and-SE-1985-1992-06-TOC.md](AI-and-SE-1985-1992-06-TOC.md) | 
+| [AI-and-Software-Engineering-1985-1992-07.pdf](AI-and-Software-Engineering-1985-1992-07.pdf) | 49MB | Technical papers, authors Se-Sm          | [AI-and-SE-1985-1992-07-TOC.md](AI-and-SE-1985-1992-07-TOC.md) | 
+| [AI-and-Software-Engineering-1985-1992-08.pdf](AI-and-Software-Engineering-1985-1992-08.pdf) | 58MB | Technical papers, authors St-V           | [AI-and-SE-1985-1992-08-TOC.md](AI-and-SE-1985-1992-08-TOC.md) | 
+| [AI-and-Software-Engineering-1985-1992-09.pdf](AI-and-Software-Engineering-1985-1992-09.pdf) | 52MB | Technical papers, authors V-Z and others | [AI-and-SE-1985-1992-09-TOC.md](AI-and-SE-1985-1992-09-TOC.md) | 
+| [AI-and-Software-Engineering-1985-1992-10.pdf](AI-and-Software-Engineering-1985-1992-10.pdf) | 26MB | Technical papers from class notes        | [AI-and-SE-1985-1992-10-TOC.md](AI-and-SE-1985-1992-10-TOC.md) | 
+| [AI-and-Software-Engineering-1985-1992-11.pdf](AI-and-Software-Engineering-1985-1992-11.pdf) | 85MB | Technical papers from class notes        | [AI-and-SE-1985-1992-11-TOC.md](AI-and-SE-1985-1992-11-TOC.md) | 
 
 ### Other magazines, journals, and workshops (not scanned)
 1. _IEEE Intelligent Systems (formerly IEEE Expert)_, Winter **1988** Special Issue on _AI/Software Engineering_.  
