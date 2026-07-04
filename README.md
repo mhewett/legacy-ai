@@ -80,7 +80,9 @@ The contents of the first 9 are roughly in alphabetical order by author.
 
 
 ### Books about Automating Software Development
-These were important books about AI-assisted programming and related topics in the 1980s and 1990s.  They are listed in chronological order.
+These were important books about AI-assisted programming and related topics in the 1980s and 1990s.  They are listed in chronological order.  The book
+*Automating Software Design* is a high-quality collection of papers by leading researchers in the early 1990s.
+
 1. Gries, David. ***The Science of Programming***. New York: Springer-Verlag, 1981. ISBNs `0-387-96480-0` and `3-540-96480-0`.
 2. Barstow, David R., Howard E. Shrobe, and Erik Sandewall, eds. ***Interactive Programming Environments***. New York: McGraw-Hill, 1984. ISBN `0-07-003885-6`.
    - One of my favorite books to browse.
@@ -98,7 +100,7 @@ These were important books about AI-assisted programming and related topics in t
 ## AI Agents
 There was considerable work in the past on AI agents and cooperating systems of agents, sometimes called Distributed Artificial Intelligence.
 Past systems were based on logic or knowledge-based systems rather than LLMs, but the concepts were similar.  While browsing the literature
-one sees a focus on communication between agents; it was thought that agents would need special-purpose languages rather than human language.
+one sees a focus on communication between agents; it was thought that agents would need to communicate via special-purpose languages rather than human language.
 Below are some historical books on topics related to AI Agents, presented in chronological order:
 
 1. Agha, Gul. ***Actors: A Model of Concurrent Computation in Distributed Systems***. Cambridge, MA: MIT Press, 1986. ISBN `0-262-01092-5`.
@@ -113,8 +115,8 @@ Below are some historical books on topics related to AI Agents, presented in chr
 Anyone wanting to understand the state of AI in the 1980s should consult the _Handbook of Artificial Intelligence_.
 - Barr, Avron; Edward A. Feigenbaum; and Paul R. Cohen, eds. ***The Handbook of Artificial Intelligence***. 4 vols. Stanford, CA: HeurisTech Press; Los Altos, CA: William Kaufmann; Reading, MA: Addison-Wesley, 1981–1990. ISBNs `0-86576-004-7` and `0-201-51819-8`.
 
-_MYCIN_ was a very successful medical expert system based on rules - a _rule-based expert system_.  This book collects all 
-the important writings about MYCIN and related systems.
+_MYCIN_ was a very successful medical expert system based on rules, e.g. a _rule-based expert system_.  This book collects all 
+the important writings about MYCIN and its related systems.
 - Buchanan, Bruce G., and Edward H. Shortliffe, eds. ***Rule-Based Expert Systems: The MYCIN Experiments of the Stanford Heuristic Programming Project***. Reading, MA: Addison-Wesley, 1984. ISBN `0-201-10172-6`.
 
 One of my favorite books is _The Architecture of Symbolic Computers_ which has a plethora of treasures for LISP aficionados.
