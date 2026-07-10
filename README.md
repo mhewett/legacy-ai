@@ -125,4 +125,38 @@ One of my favorite books is _The Architecture of Symbolic Computers_ which has a
 Another of my favorite books is _Associative Networks_ which has the added benefit of being printed on beautiful acid-free paper.
 - Findler, Nicholas V., ed. ***Associative Networks: The Representation and Use of Knowledge by Computers***. New York: Academic Press, 1979. ISBN `0-12-256380-8`.
 
-## Doug Lenat thesis and other papers
+## Doug Lenat thesis and related papers
+
+In 1976, [Doug Lenat]((https://en.wikipedia.org/wiki/Douglas_Lenat)) produced a seminal PhD thesis, *AM: An Artificial Intelligence Approach to Discovery in Mathematics as Heuristic Search*.
+[AM](https://en.wikipedia.org/wiki/Automated_Mathematician) and its followup work [Eurisko](https://en.wikipedia.org/wiki/Eurisko) generated considerable interest from other AI practitioners.
+Lenat claimed that AM discovered or rediscovered important mathematical concepts.  Eurisko was an extension and generalization of AM that learned new heuristics for discovering concepts in 
+addition to discovering concepts.
+
+*The next paragraph is largely from the Wikipedia article on Eurisko*
+
+Lenat and Eurisko gained notoriety by submitting the winning fleet to the United States Traveller TCS national championship in 1981, forcing extensive changes to the game's rules. 
+However, Eurisko won again in 1982 when the program discovered that the rules permitted the program to destroy its own ships.
+After this, Eurisko was essentially banned from the Traveller competition.
+
+AM and Eurisko appeared to initiate a new generation of AI-based discovery systems.  However, other researchers found it challenging to duplicate the success of AM, leading to 
+questions about how independent of Lenat the systems actually were. Turing Award winner [Allen Newell](https://en.wikipedia.org/wiki/Allen_Newell) made similar comments on the original thesis 
+submission; those comments are reproduced below.
+
+The following papers from Lenat and others are available in this archive:
+
+| Name                                                                                                   | Year | Size | Description                                                                                    | Notes                                                                                                                               |
+|--------------------------------------------------------------------------------------------------------|------|-----:|------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
+| [Lenat-1976-thesis.pdf](lenat/Lenat-1976-thesis.pdf)                                                   | 1976 | 57MB | Doug Lenat thesis, 1976                                                                        | Also reproduced in the book *Knowledge-Based Systems in Artificial Intelligence*, 1982, by Randy Davis and Doug Lenat, McGraw-Hill. | 
+| [Lenat-1976-thesis-comments-by-allen-newell.pdf](lenat/Lenat-1976-thesis-comments-by-allen-newell.pdf) | 1976 |  1MB | Detailed comments from Allen Newell                                                            | Email from 1976!                                                                                                                    | 
+| [Lenat-1982-nature-of-heuristics-I.pdf](lenat/Lenat-1982-nature-of-heuristics-I.pdf)                   | 1982 | 10MB | AI Journal: *The Nature of Heuristics I*                                                       | Research summary by Lenat covering AM and Eurisko.                                                                                  |                                                                                                              | 
+| [Lenat-1983-nature-of-heuristics-II.pdf](lenat/Lenat-1982-nature-of-heuristics-II.pdf)                 | 1983 |  5MB | AI Journal: *The Nature of Heuristics II*                                                      | Research summary by Lenat covering AM and Eurisko.                                                                                  |                                                                                                              | 
+| [Lenat-1983-nature-of-heuristics-III.pdf](lenat/Lenat-1982-nature-of-heuristics-III.pdf)               | 1983 |  6MB | AI Journal: *The Nature of Heuristics III*                                                     | Research summary by Lenat covering AM and Eurisko.                                                                                  |                                                                                                              | 
+| [Lenat-1984-analysis-by-Ritchie-and-Hanna.pdf](lenat/Lenat-1984-analysis-by-Ritchie-and-Hanna.pdf)     | 1984 |  3MB | AI Journal: *AM: A Case Study in AI Methodology*                                               | A deep analysis of AM by Graeme Ritchie and F. Keith Hanna.                                                                         | 
+| [Lenat-1984-analysis-by-Lenat-and-Brown.pdf](lenat/Lenat-1984-analysis-by-Lenat-and-Brown.pdf)         | 1984 |  5MB | AI Journal: *Why AM and Eurisko Appear to Work*                                                | A response to the Ritchie and Hanna paper from Doug Lenat and John Seely Brown.                                                     | 
+| [Lenat-1987-AM-comments-by-tom-dietterich.pdf](lenat/Lenat-1987-AM-comments-by-tom-dietterich.pdf)     | 1987 |  1MB | Cogent comments on AM by [Tom Dietterich](https://en.wikipedia.org/wiki/Thomas_G._Dietterich). | From an Internet mailing list.                                                                                                      | 
+| [Lenat-1987-AM-comments-by-various.pdf](lenat/Lenat-1987-comments-by-various.pdf)                      | 1987 |  2MB | Comments about AM by other researchers.                                                        | From an Internet mailing list.                                                                                                      | 
+| [Walker-1986-Feasible-Automated-Discovery.pdf](lenat/Feasible-Automated-Discovery.pdf)                 | 1986 |  7MB | *How Feasible is Automated Discovery* by Michael G. Walker.                                    | Technical Report Stanford KSL 86-35.                                                                                                | 
+| [Sims-1987-Discovery-in-IL.pdf](lenat/Sims-1987-Discovery-in-IL.pdf)                                   | 1987 |  2MB | *Empirical and Analytical Discovery in IL* by Michael H. Sims.                                 | `IL` was a program intended to work like `AM`.  From *Proceedings of the 4th International Machine Learning Workshop*               | 
+
+
+
